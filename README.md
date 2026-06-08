@@ -280,6 +280,18 @@ const Srivignesh = {
 
 ---
 
+## 💡 DEV.QUOTE
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+way+to+predict+the+future+is+to+build+it&author=Alan+Kay)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
 ## 🛰️ CONNECT.LINK
 
 <div align="center">

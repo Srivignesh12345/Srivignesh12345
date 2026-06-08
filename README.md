@@ -62,7 +62,7 @@ const Srivignesh = {
 | 🏛️ Institution | 📚 Qualification | 📊 Score | 📅 Year |
 |---|---|---|---|
 | Sri Eshwar College of Engineering | B.E (CCE) | CGPA: 6.1 (5th Sem) | 2023 – 2027 |
-| Vidyaa Vikas Hr. Sec. School | HSC | 82.4% | 2022 – 2023 |
+| Vidyaa Vikas Hr. Sec. School | HSC | 69% | 2022 – 2023 |
 | Avvai KSR Matric High School | SSLC | Pass | 2020 – 2021 |
 
 </div>

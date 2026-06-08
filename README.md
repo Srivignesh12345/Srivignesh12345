@@ -264,6 +264,18 @@ const Srivignesh = {
 
 </div>
 
+## 🐍 CONTRIBUTION.SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srivignesh12345/Srivignesh12345/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srivignesh12345/Srivignesh12345/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Srivignesh12345/Srivignesh12345/output/github-snake.svg" />
+</picture>
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---

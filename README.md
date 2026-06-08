@@ -315,7 +315,10 @@ const Srivignesh = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Srivignesh12345&theme=radical&no-frame=true&row=1&column=7&margin-w=10)
+[![LeetCode](https://img.shields.io/badge/LeetCode-120%2B%20Solved%20%7C%20Rating%3A%201866-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-70%2B%20Solved%20%7C%20Rating%3A%20972-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com)
+[![SkillRack](https://img.shields.io/badge/SkillRack-150%2B%20Solved-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FFD1)](https://skillrack.com)
+[![AI Datathon](https://img.shields.io/badge/🥇%20AI%20DATATHON%20Winner-Sri%20Eshwar%20%7C%20May%202025-FF6B6B?style=for-the-badge)](https://github.com/Srivignesh12345)
 
 </div>
 

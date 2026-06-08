@@ -98,7 +98,7 @@ A sleek digital business card platform with modern UI, deployed on Vercel. Clean
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/KML-Digital-Card)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://kml-digital-card.vercel.app)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://kalpanamicrolab.com)
 
 </td>
 </tr>
@@ -117,14 +117,14 @@ A powerful web platform built with modern frontend technologies, deployed live o
 </td>
 <td width="50%" valign="top">
 
-### ✨ Twinklub
-> **Web App** · JavaScript · [Live Demo ↗](https://twinklub.vercel.app)
+### 🎁 Gift Registry Pro
+> **Web App** · JavaScript · [Live Demo ↗](https://gift-registry-pro.vercel.app)
 
-A dynamic JavaScript-powered web application with a live deployment on Vercel.
+A smart gift registry platform that lets users create, manage, and share wishlists seamlessly with a clean modern interface.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/project-twinklub)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://twinklub.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Gift-Registry-Pro)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://gift-registry-pro.vercel.app)
 
 </td>
 </tr>

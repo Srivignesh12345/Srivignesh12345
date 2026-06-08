@@ -93,6 +93,27 @@ const Srivignesh = {
 
 ---
 
+## 🌈 SKILL.LEVEL
+
+<div align="center">
+
+| Skill | Proficiency |
+|---|---|
+| Python | `████████████████░░░░` 80% |
+| JavaScript | `███████████████░░░░░` 75% |
+| React.js | `██████████████░░░░░░` 70% |
+| Node.js | `██████████████░░░░░░` 70% |
+| HTML & CSS | `████████████████████` 95% |
+| Java | `████████░░░░░░░░░░░░` 40% |
+| C / C++ | `██████░░░░░░░░░░░░░░` 30% |
+| MongoDB | `████████████░░░░░░░░` 60% |
+| MySQL | `████████████░░░░░░░░` 60% |
+| TensorFlow | `████████░░░░░░░░░░░░` 40% |
+
+</div>
+
+---
+
 ## ⚡ TECH.ARSENAL
 
 <div align="center">
@@ -133,131 +154,91 @@ const Srivignesh = {
 
 <br/>
 
-### 🔥 SPOTLIGHT BUILDS
+### 🎴 SPOTLIGHT BUILDS
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  🐝  BEE QUEEN — Income App      ║
-║  ══════════════════════════════  ║
-║  Type   : Mobile Application     ║
-║  Stack  : React Native · Node.js ║
-║  Status : ✅ Live & Active        ║
-╠══════════════════════════════════╣
-║  Real-time beehive income        ║
-║  tracker with hive health        ║
-║  monitoring & earnings calc.     ║
-╚══════════════════════════════════╝
-```
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Mobile](https://img.shields.io/badge/Mobile-FF6B6B?style=flat-square&logo=android&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+> 🐝 **BEE QUEEN — Income App** &nbsp;·&nbsp; `React Native` `Node.js` &nbsp;·&nbsp; ✅ Live & Active
+>
+> Real-time beehive income tracker with hive health monitoring & earnings calculator.
+>
+> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Mobile](https://img.shields.io/badge/Mobile-FF6B6B?style=flat-square&logo=android&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  🔒  TRUSTIFY                    ║
-║  ══════════════════════════════  ║
-║  Type   : Blockchain Platform    ║
-║  Stack  : React · Node · Web3    ║
-║  Status : 🏆 SIH 2025 Project    ║
-╠══════════════════════════════════╣
-║  Blockchain-based academic cert  ║
-║  verification with QR codes,     ║
-║  tamper-proof ledger & roles.    ║
-╚══════════════════════════════════╝
-```
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Trustify)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+> 🔒 **TRUSTIFY** &nbsp;·&nbsp; `React` `Node.js` `Web3` &nbsp;·&nbsp; 🏆 SIH 2025
+>
+> Blockchain-based academic cert verification with QR codes, tamper-proof ledger & role-based dashboards.
+>
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Trustify)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  🌱  SMART CROP MONITORING       ║
-║  ══════════════════════════════  ║
-║  Type   : IoT System             ║
-║  Stack  : IoT · Python · Sensors ║
-║  Status : ✅ Completed  2026      ║
-╠══════════════════════════════════╣
-║  Real-time soil moisture, temp   ║
-║  & humidity monitoring system    ║
-║  for smart agriculture.          ║
-╚══════════════════════════════════╝
-```
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+> 🌱 **SMART CROP MONITORING** &nbsp;·&nbsp; `IoT` `Python` `Sensors` &nbsp;·&nbsp; ✅ 2026
+>
+> Real-time soil moisture, temp & humidity monitoring for smart agriculture & automated irrigation.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  🛡️  SHIELDLINK                  ║
-║  ══════════════════════════════  ║
-║  Type   : Cybersecurity Tool     ║
-║  Stack  : Python · Scapy · ARP   ║
-║  Status : ✅ Completed  2026      ║
-╠══════════════════════════════════╣
-║  Real-time network packet        ║
-║  sniffer & intrusion detector    ║
-║  with ARP threat detection.      ║
-╚══════════════════════════════════╝
-```
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Security](https://img.shields.io/badge/Scapy-2D2D2D?style=flat-square&logo=shield&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Shield-Link)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+> 🛡️ **SHIELDLINK** &nbsp;·&nbsp; `Python` `Scapy` `ARP` &nbsp;·&nbsp; ✅ 2026
+>
+> Real-time network packet sniffer & intrusion detector with ARP threat detection & modular design.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scapy](https://img.shields.io/badge/Scapy-2D2D2D?style=flat-square&logo=shield&logoColor=white) [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Shield-Link)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  🃏  KML DIGITAL CARD            ║
-║  ══════════════════════════════  ║
-║  Type   : Web Application        ║
-║  Stack  : HTML · CSS             ║
-║  Status : 🌐 kalpanamicrolab.com ║
-╠══════════════════════════════════╣
-║  Sleek digital business card     ║
-║  platform with modern UI &       ║
-║  professional card sharing.      ║
-╚══════════════════════════════════╝
-```
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/KML-Digital-Card)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://kalpanamicrolab.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+> 🃏 **KML DIGITAL CARD** &nbsp;·&nbsp; `HTML` `CSS` &nbsp;·&nbsp; 🌐 [kalpanamicrolab.com](https://kalpanamicrolab.com)
+>
+> Sleek digital business card platform with modern UI & professional card sharing experience.
+>
+> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) [![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/KML-Digital-Card) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://kalpanamicrolab.com)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  ⚡  STEPS TO WATT               ║
-║  ══════════════════════════════  ║
-║  Type   : IoT + Analytics        ║
-║  Stack  : Python · IoT · Data    ║
-║  Status : ✅ Completed  2026      ║
-╠══════════════════════════════════╣
-║  Converts step count into        ║
-║  estimated energy in watts —     ║
-║  promoting sustainable energy.   ║
-╚══════════════════════════════════╝
-```
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Analytics](https://img.shields.io/badge/Data_Analytics-FF6B6B?style=flat-square&logo=googleanalytics&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+> ⚡ **STEPS TO WATT** &nbsp;·&nbsp; `Python` `IoT` `Data Analytics` &nbsp;·&nbsp; ✅ 2026
+>
+> Converts step count into estimated energy in watts, promoting sustainable energy awareness.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Analytics](https://img.shields.io/badge/Data_Analytics-FF6B6B?style=flat-square&logo=googleanalytics&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
 </td>
 </tr>
@@ -344,6 +325,31 @@ const Srivignesh = {
    open_to   : "Collabs, Internships & Projects 🚀"
  };
 ```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 📬 HIRE.ME
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║   🚀  OPEN TO OPPORTUNITIES                          ║
+╠══════════════════════════════════════════════════════╣
+║   ✅  Internships & Full-Time Roles                  ║
+║   ✅  Freelance & Contract Projects                  ║
+║   ✅  Open Source Collaborations                     ║
+║   ✅  AI / IoT / Web Development Projects            ║
+╚══════════════════════════════════════════════════════╝
+```
+
+[![Hire Me](https://img.shields.io/badge/💼%20HIRE%20ME-00FFD1?style=for-the-badge&logoColor=black)](mailto:srivignesh.s2023cce@sece.ac.in)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivignesh-s-19a3b9291/)
+[![WhatsApp](https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918608633110)
 
 </div>
 

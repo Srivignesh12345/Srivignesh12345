@@ -122,18 +122,12 @@ const Srivignesh = {
 
 <div align="center">
 
-<a href="https://github.com/Srivignesh12345/KML-Digital-Card">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivignesh12345&repo=KML-Digital-Card&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6B6B" />
-</a>
-<a href="https://github.com/Srivignesh12345/Gift-Registry-Pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivignesh12345&repo=Gift-Registry-Pro&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6B6B" />
-</a>
-<a href="https://github.com/Srivignesh12345/StratHub-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivignesh12345&repo=StratHub-AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6B6B" />
-</a>
-<a href="https://github.com/Srivignesh12345/Trustify">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivignesh12345&repo=Trustify&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6B6B" />
-</a>
+[![KML-Digital-Card](https://img.shields.io/badge/🃏%20KML%20Digital%20Card-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1)](https://github.com/Srivignesh12345/KML-Digital-Card)
+[![Gift-Registry-Pro](https://img.shields.io/badge/🎁%20Gift%20Registry%20Pro-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1)](https://github.com/Srivignesh12345/Gift-Registry-Pro)
+[![StratHub-AI](https://img.shields.io/badge/🤖%20StratHub%20AI-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1)](https://github.com/Srivignesh12345/StratHub-AI)
+[![Trustify](https://img.shields.io/badge/🔒%20Trustify-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1)](https://github.com/Srivignesh12345/Trustify)
+[![Shield-Link](https://img.shields.io/badge/🛡️%20Shield%20Link-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1)](https://github.com/Srivignesh12345/Shield-Link)
+[![Yotta-Forge](https://img.shields.io/badge/⚡%20Yotta%20Forge-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1)](https://github.com/Srivignesh12345/Yotta-Forge)
 
 </div>
 

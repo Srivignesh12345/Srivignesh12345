@@ -12,6 +12,33 @@
 
 ---
 
+<div align="center">
+
+```bash
+╭─────────────────────────────────────────────────────────────╮
+│                  SRIVIGNESH OS  v2.0.26                     │
+├─────────────────────────────────────────────────────────────┤
+│  $ whoami                                                   │
+│  > Srivignesh — Software Dev · AI Enthusiast · IoT Builder  │
+│                                                             │
+│  $ cat skills.txt                                           │
+│  > Python · JavaScript · React · Node.js · IoT · AI        │
+│                                                             │
+│  $ git log --oneline                                        │
+│  > a1b2c3 Built Bee Queen Mobile App 🐝                     │
+│  > d4e5f6 Shipped Trustify Blockchain Platform 🔒           │
+│  > g7h8i9 Deployed KML Digital Card 🃏                      │
+│  > j1k2l3 Engineered ShieldLink Security Tool 🛡️           │
+│                                                             │
+│  $ status                                                   │
+│  > 🟢 Available for Internships & Collabs                   │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; IDENTITY.EXE
@@ -288,6 +315,8 @@ const Srivignesh = {
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivignesh12345&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=ffffff" />
 
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srivignesh12345&theme=radical" />
+
 </div>
 
 ---
@@ -325,6 +354,16 @@ const Srivignesh = {
    open_to   : "Collabs, Internships & Projects 🚀"
  };
 ```
+
+</div>
+
+---
+
+## 😂 FUN.FACT
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
 </div>
 

@@ -332,15 +332,18 @@ const Srivignesh = {
 
 </div>
 
-## 🐍 CONTRIBUTION.SNAKE
+## 🎯 CURRENTLY.BUILDING
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srivignesh12345/Srivignesh12345/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srivignesh12345/Srivignesh12345/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Srivignesh12345/Srivignesh12345/output/github-snake.svg" />
-</picture>
+```js
+ const now = {
+   building  : "Bee Queen Mobile App 🐝",
+   learning  : "LangChain & AI Agents 🤖",
+   exploring : "Blockchain & Web3 ⛓️",
+   open_to   : "Collabs, Internships & Projects 🚀"
+ };
+```
 
 </div>
 

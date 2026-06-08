@@ -63,10 +63,10 @@ const Srivignesh = {
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" />
 
 ### 〔 Frameworks & Runtime 〕
-<img src="https://skillicons.dev/icons?i=react,nodejs,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
 
 ### 〔 AI & IoT 〕
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino,raspberrypi&theme=dark" />
 
 ### 〔 Tools & Platforms 〕
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />

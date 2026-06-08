@@ -20,7 +20,7 @@
 <tr>
 <td valign="top" width="30%">
 <div align="center">
-<img src="./IMG20260414095859.jpg.jpeg" width="180" style="border-radius:50%; border: 3px solid #00D9FF;" alt="Srivignesh" />
+<img src="./IMG20260414095859.jpg.jpeg" width="260" style="border-radius:50%; border: 4px solid #00D9FF;" alt="Srivignesh" />
 <br/><br/>
 <b>Srivignesh</b><br/>
 <sub>Software Developer · AI Enthusiast · IoT Explorer</sub>

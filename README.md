@@ -20,7 +20,7 @@
 <tr>
 <td valign="top" width="32%">
 <div align="center">
-<img src="./IMG20260414095859.jpg.jpeg" width="260" style="border-radius:50%; border: 4px solid #00FFD1; box-shadow: 0 0 25px #00FFD1;" alt="Srivignesh" />
+<img src="./Srivignesh S.jpeg" width="260" style="border-radius:50%; border: 4px solid #00FFD1; box-shadow: 0 0 25px #00FFD1;" alt="Srivignesh" />
 <br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Srivignesh12345?style=social)](https://github.com/Srivignesh12345)
@@ -31,15 +31,15 @@
 
 ```js
 const Srivignesh = {
-  pronouns   : "He/Him",
   location   : "India 🇮🇳",
+  education  : "B.E (CCE) @ Sri Eshwar College",
   role       : ["Software Developer", "AI Enthusiast",
                 "IoT Explorer"],
-  code       : ["Python", "JavaScript", "HTML", "CSS"],
-  frameworks : ["React.js", "Node.js", "React Native"],
-  AI_stack   : ["TensorFlow", "OpenCV", "LangChain"],
-  IoT        : ["Arduino", "Raspberry Pi"],
-  tools      : ["Git", "VS Code", "Postman"],
+  code       : ["Python", "JavaScript", "Java", "C++"],
+  frameworks : ["React.js", "Node.js", "Express.js"],
+  databases  : ["MongoDB", "MySQL"],
+  AI_IoT     : ["TensorFlow", "Arduino", "Raspberry Pi"],
+  platforms  : ["Azure", "Git", "Postman"],
   motto      : "Code. Learn. Build. Repeat. 🚀",
   available  : true  // Open for collabs!
 };
@@ -55,21 +55,62 @@ const Srivignesh = {
 
 ---
 
+## 🎓 EDUCATION.LOG
+
+<div align="center">
+
+| 🏛️ Institution | 📚 Qualification | 📊 Score | 📅 Year |
+|---|---|---|---|
+| Sri Eshwar College of Engineering | B.E (CCE) | CGPA: 6.1 (5th Sem) | 2023 – 2027 |
+| Vidyaa Vikas Hr. Sec. School | HSC | 82.4% | 2022 – 2023 |
+| Avvai KSR Matric High School | SSLC | Pass | 2020 – 2021 |
+
+</div>
+
+---
+
+## 💼 INTERNSHIP.EXE
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════╗
+║  🏢  BETTER TOMORROW  —  MERN Stack  |  2025   ║
+╠════════════════════════════════════════════════╣
+║  Completed project-based MERN stack training   ║
+║  with hands-on full-stack web development.     ║
+║  Skilled in RESTful APIs, frontend-backend     ║
+║  integration, and database operations.         ║
+╚════════════════════════════════════════════════╝
+```
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</div>
+
+---
+
 ## ⚡ TECH.ARSENAL
 
 <div align="center">
 
 ### 〔 Languages 〕
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,html,css&theme=dark" />
 
 ### 〔 Frameworks & Runtime 〕
 <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
+
+### 〔 Databases 〕
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
 ### 〔 AI & IoT 〕
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino,raspberrypi&theme=dark" />
 
 ### 〔 Tools & Platforms 〕
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,azure,canva&theme=dark" />
 
 </div>
 
@@ -81,17 +122,17 @@ const Srivignesh = {
 
 <div align="center">
 
-<a href="https://github.com/Srivignesh12345">
+<a href="https://github.com/Srivignesh12345/KML-Digital-Card">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivignesh12345&repo=KML-Digital-Card&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6B6B" />
 </a>
-<a href="https://github.com/Srivignesh12345">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivignesh12345&repo=Yotta-Forge&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6B6B" />
-</a>
-<a href="https://github.com/Srivignesh12345">
+<a href="https://github.com/Srivignesh12345/Gift-Registry-Pro">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivignesh12345&repo=Gift-Registry-Pro&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6B6B" />
 </a>
-<a href="https://github.com/Srivignesh12345">
+<a href="https://github.com/Srivignesh12345/StratHub-AI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivignesh12345&repo=StratHub-AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6B6B" />
+</a>
+<a href="https://github.com/Srivignesh12345/Trustify">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivignesh12345&repo=Trustify&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6B6B" />
 </a>
 
 </div>
@@ -127,6 +168,69 @@ const Srivignesh = {
 
 ```
 ╔══════════════════════════════════╗
+║  🔒  TRUSTIFY                    ║
+║  ══════════════════════════════  ║
+║  Type   : Blockchain Platform    ║
+║  Stack  : React · Node · Web3    ║
+║  Status : 🏆 SIH 2025 Project    ║
+╠══════════════════════════════════╣
+║  Blockchain-based academic cert  ║
+║  verification with QR codes,     ║
+║  tamper-proof ledger & roles.    ║
+╚══════════════════════════════════╝
+```
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Trustify)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════╗
+║  🌱  SMART CROP MONITORING       ║
+║  ══════════════════════════════  ║
+║  Type   : IoT System             ║
+║  Stack  : IoT · Python · Sensors ║
+║  Status : ✅ Completed  2026      ║
+╠══════════════════════════════════╣
+║  Real-time soil moisture, temp   ║
+║  & humidity monitoring system    ║
+║  for smart agriculture.          ║
+╚══════════════════════════════════╝
+```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════╗
+║  🛡️  SHIELDLINK                  ║
+║  ══════════════════════════════  ║
+║  Type   : Cybersecurity Tool     ║
+║  Stack  : Python · Scapy · ARP   ║
+║  Status : ✅ Completed  2026      ║
+╠══════════════════════════════════╣
+║  Real-time network packet        ║
+║  sniffer & intrusion detector    ║
+║  with ARP threat detection.      ║
+╚══════════════════════════════════╝
+```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Scapy-2D2D2D?style=flat-square&logo=shield&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Shield-Link)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════╗
 ║  🃏  KML DIGITAL CARD            ║
 ║  ══════════════════════════════  ║
 ║  Type   : Web Application        ║
@@ -143,86 +247,23 @@ const Srivignesh = {
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://kalpanamicrolab.com)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ```
 ╔══════════════════════════════════╗
-║  🤖  STRATHUB AI                 ║
+║  ⚡  STEPS TO WATT               ║
 ║  ══════════════════════════════  ║
-║  Type   : AI Platform            ║
-║  Stack  : AI · Web               ║
-║  Status : 🔬 In Development      ║
+║  Type   : IoT + Analytics        ║
+║  Stack  : Python · IoT · Data    ║
+║  Status : ✅ Completed  2026      ║
 ╠══════════════════════════════════╣
-║  AI-powered strategy hub with    ║
-║  intelligent insights and        ║
-║  smart decision-making tools.    ║
+║  Converts step count into        ║
+║  estimated energy in watts —     ║
+║  promoting sustainable energy.   ║
 ╚══════════════════════════════════╝
 ```
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/StratHub-AI)
-
-</td>
-<td width="50%" valign="top">
-
-```
-╔══════════════════════════════════╗
-║  🎁  GIFT REGISTRY PRO           ║
-║  ══════════════════════════════  ║
-║  Type   : Web Application        ║
-║  Stack  : JavaScript             ║
-║  Status : 🌐 Live on Vercel      ║
-╠══════════════════════════════════╣
-║  Smart wishlist platform to      ║
-║  create, manage & share gift     ║
-║  registries with clean UI.       ║
-╚══════════════════════════════════╝
-```
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Gift-Registry-Pro)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://gift-registry-pro.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```
-╔══════════════════════════════════╗
-║  ⚡  YOTTA FORGE                 ║
-║  ══════════════════════════════  ║
-║  Type   : Web Application        ║
-║  Stack  : CSS · JavaScript       ║
-║  Status : 🌐 Live on Vercel      ║
-╠══════════════════════════════════╣
-║  Powerful web platform built     ║
-║  with modern frontend tech,      ║
-║  deployed live on Vercel.        ║
-╚══════════════════════════════════╝
-```
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Yotta-Forge)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://yottaforge.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-```
-╔══════════════════════════════════╗
-║  🔒  TRUSTIFY                    ║
-║  ══════════════════════════════  ║
-║  Type   : Web Application        ║
-║  Stack  : Security · Web         ║
-║  Status : 🔬 In Development      ║
-╠══════════════════════════════════╣
-║  Trust & verification platform   ║
-║  for secure digital identity     ║
-║  and authenticity checks.        ║
-╚══════════════════════════════════╝
-```
-![Security](https://img.shields.io/badge/Security-2D2D2D?style=flat-square&logo=shield&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Trustify)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Analytics](https://img.shields.io/badge/Data_Analytics-FF6B6B?style=flat-square&logo=googleanalytics&logoColor=white)
 
 </td>
 </tr>
@@ -230,6 +271,36 @@ const Srivignesh = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🏅 ACHIEVEMENTS.UNLOCKED
+
+<div align="center">
+
+| 🏆 Achievement | 📊 Details |
+|---|---|
+| 🥇 Winner — AI DATATHON | Sri Eshwar College of Engineering · 1st Place · May 2025 |
+| 💻 LeetCode | 120+ Problems Solved · Rating: **1,866** |
+| 💡 HackerRank | 70+ Problems Solved · Rating: **972** |
+| 🔥 SkillRack | 150+ Problems Solved |
+
+</div>
+
+---
+
+## 📜 CERTIFICATIONS.STACK
+
+<div align="center">
+
+| 📘 Certificate | 🎓 Platform | 📅 Year |
+|---|---|---|
+| Mastering Data Structures & Algorithms using C and C++ | Udemy | 2023 |
+| Signals and Systems: From Basics to Advance | Udemy | 2024 |
+| Microsoft Azure: Hands On Training — AZ-900, AZ-104, AZ-305 | Udemy | 2025 |
+| Machine Learning From Basic to Advanced | Udemy | 2025 |
+
+</div>
 
 ---
 

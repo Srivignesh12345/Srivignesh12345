@@ -71,6 +71,93 @@ class Srivignesh:
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐝 Bee Queen — Income Status App
+> **Mobile Application** · React Native · Node.js
+
+A smart mobile application for tracking and managing **beekeeping income & hive status** in real-time. Designed to help beekeepers monitor production, calculate earnings, and manage hive health efficiently.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile_App-FF6B6B?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🃏 KML Digital Card
+> **Web App** · CSS · HTML · [Live Demo ↗](https://kml-digital-card.vercel.app)
+
+A sleek digital business card platform with modern UI, deployed on Vercel. Clean and professional card-sharing experience.
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/KML-Digital-Card)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://kml-digital-card.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Yotta Forge
+> **Web App** · CSS · JavaScript · [Live Demo ↗](https://yottaforge.vercel.app)
+
+A powerful web platform built with modern frontend technologies, deployed live on Vercel.
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Yotta-Forge)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://yottaforge.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Twinklub
+> **Web App** · JavaScript · [Live Demo ↗](https://twinklub.vercel.app)
+
+A dynamic JavaScript-powered web application with a live deployment on Vercel.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/project-twinklub)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://twinklub.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 StratHub AI
+> **AI Platform** · Web App
+
+An AI-powered strategy hub platform designed to deliver intelligent insights and decision-making tools.
+
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/StratHub-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 Trustify
+> **Web App** · Security · Trust Platform
+
+A trust and verification platform focused on secure digital identity and authenticity checks.
+
+![Security](https://img.shields.io/badge/Security-2D2D2D?style=flat-square&logo=shield&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Srivignesh12345/Trustify)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
